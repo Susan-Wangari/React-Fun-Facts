@@ -1,5 +1,5 @@
 //import React from 'react'
-
+//the header organized separately
 export default function Header () {
     return (
         <header>
