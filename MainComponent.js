@@ -1,4 +1,5 @@
 //import React from 'react'
+//main component as a component
 
 export default function MainComponent (){
     return (
