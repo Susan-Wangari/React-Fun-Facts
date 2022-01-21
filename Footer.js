@@ -1,5 +1,5 @@
 //import React from 'react'
-
+//the footer as a separate component
 function Footer () {
     return (
         <footer className="footer">
